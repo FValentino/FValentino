@@ -1,263 +1,158 @@
-# Hi, I'm Valentino Farías 👋
+# Hola, soy Valentino Farías 👋
 
-Full Stack Developer focused on building modern web applications, SaaS platforms and scalable digital products.
+Desarrollador Full Stack enfocado en la creación de aplicaciones web, plataformas SaaS y productos digitales orientados a resolver problemas reales de negocio.
 
-I enjoy working across the entire product lifecycle — from architecture and backend development to frontend experiences and technical decision-making.
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer specialized in modern web technologies
-- 🧠 Product-oriented mindset focused on real business solutions
-- ⚙️ Experience building SaaS platforms, e-commerce systems and MVPs
-- 🤝 Comfortable working directly with clients and stakeholders
-- 📚 Currently studying Information Systems Engineering at UTN FRRe
+Actualmente estudio Ingeniería en Sistemas de Información en la UTN FRRe y participo en proyectos donde colaboro tanto en el desarrollo técnico como en la definición de soluciones junto a clientes y equipos de trabajo.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Sobre mí
+
+* 💻 Desarrollo aplicaciones web modernas utilizando tecnologías del ecosistema JavaScript.
+* ⚙️ Experiencia en proyectos SaaS, e-commerce, landing pages y MVPs.
+* 🧠 Interés por la arquitectura de software, el desarrollo backend y la construcción de productos digitales.
+* 🤝 Experiencia trabajando directamente con clientes, relevando requerimientos y transformando necesidades de negocio en soluciones tecnológicas.
+* 📚 Aprendizaje continuo y búsqueda constante de nuevos desafíos.
+
+---
+
+## 🛠️ Tecnologías
 
 ### Frontend
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
 
 ### Backend
-- Node.js
-- Express
-- REST APIs
-- Authentication & Authorization
-- Realtime Systems
 
-### Database & Tools
-- PostgreSQL
-- Prisma
-- Supabase
-- Git & GitHub
-- ClickUp
-- Scrum
+* Node.js
+* Express
+* APIs REST
+* Autenticación y autorización
 
----
+### Bases de datos y herramientas
 
-## 💡 What I Like Building
-
-- SaaS platforms
-- Full stack applications
-- Realtime experiences
-- E-commerce solutions
-- Product MVPs
-- Scalable frontend architectures
-- API integrations
+* PostgreSQL
+* Supabase
+* Prisma
+* Git & GitHub
+* Scrum
+* ClickUp
 
 ---
 
-# 📌 Featured Projects
-
----
+# 📌 Proyectos Destacados
 
 ## Fichita
 
-Employee attendance and shift management platform built to solve operational and payroll tracking problems for a real-world business environment.
+Plataforma de gestión de asistencia y turnos diseñada para digitalizar procesos operativos que anteriormente se realizaban de forma manual.
 
-The system was designed for a bar where attendance and payment calculations were previously handled manually, consuming significant administrative time every week.
+### Funcionalidades
 
-Currently being tested in a real operating environment with active employees and daily usage.
+* Registro de asistencia mediante QR.
+* Gestión de empleados.
+* Reportes semanales y mensuales.
+* Historial de asistencias.
+* Soporte para cálculo de liquidaciones.
+* Sistema de roles y permisos.
 
-### Core Features
-- QR-based attendance registration system
-- Employee shift tracking
-- Weekly and monthly reporting dashboards
-- Historical employee records
-- Payroll calculation support
-- Manual attendance correction tools
-- Role-based access system
+### Mi participación
 
-### User Roles
+* Diseño de arquitectura.
+* Desarrollo Full Stack.
+* Implementación de autenticación y autorización.
+* Desarrollo de dashboards y reportes.
+* Diseño de flujos de asistencia y control horario.
 
-#### Administrator
-- Dashboard access
-- Employee management
-- QR generation system
-- Attendance reports
-- Manual attendance adjustments
-
-#### Employee
-- QR scanner access
-- Attendance registration
-- Session management
-
-### My Role
-- Full product architecture and development
-- Authentication and role system implementation
-- Dashboard and reporting system development
-- QR attendance workflow design
-- Time tracking and payroll logic handling
-- Real-world workflow optimization
-
-### Technical Challenges
-One of the biggest challenges was handling timezone consistency between server-side timestamps and real-world attendance tracking, ensuring reliable and accurate shift registration.
-
-### Status
-Currently in private testing while actively being used in a real business environment.
+**Estado:** En pruebas con uso real.
 
 ---
 
 ## Albion Printer
 
-SaaS companion platform for the MMORPG Albion Online, focused on optimizing gathering, trading and resource planning through advanced calculation systems.
+Plataforma SaaS orientada a optimizar la gestión de información y herramientas para jugadores de Albion Online.
 
-The platform helps players make efficient economic and strategic decisions based on real in-game data and planning tools.
+### Mi participación
 
-Currently used by an active Discord community with verified users and continuous product growth.
+* Desarrollo Backend.
+* Diseño de arquitectura.
+* Integración con APIs externas.
+* Implementación de flujos de suscripción y monetización.
+* Consultoría técnica y evolución del producto.
 
-### My Role
-- Backend architecture and development
-- Product consulting and technical decision-making
-- Secure server-side integrations using Next.js
-- Database integrity and scalable architecture planning
-- Collaboration with rapid AI-assisted frontend development workflows
-
-### Tech Stack
-- Next.js
-- TypeScript
-- Supabase
-
-### Technical Challenges
-One of the main challenges was maintaining backend consistency and scalability while adapting to a very fast-paced frontend iteration process powered by AI-assisted development tools.
+**Tecnologías:** Next.js, TypeScript y Supabase.
 
 ---
 
 ## Edualde
 
-Educational platform designed to improve student retention and academic follow-up through detailed monitoring systems for both students and teachers.
+Plataforma educativa enfocada en el seguimiento académico y la mejora de la retención estudiantil.
 
-The project is initially focused on medium-sized educational institutions, starting with English academies and later expanding to broader educational environments.
+### Mi participación
 
-Currently in MVP development stage with planned release during mid-2026.
+* Relevamiento y análisis de requerimientos.
+* Definición de MVP.
+* Gestión de backlog.
+* Planificación Scrum.
+* Coordinación entre stakeholders y equipo técnico.
 
-### My Role
-- Scrum Master and Product Management
-- Stakeholder communication and requirement gathering
-- MVP scope definition
-- Development workflow organization
-- Product documentation and process alignment
-- Coordination between design and development teams
-
-### Key Contributions
-One of the main challenges was identifying inconsistencies between the client’s vision and the actual development process.
-
-After analyzing team workflows, I restructured the planning process by interviewing stakeholders, defining technical and functional requirements, and building the documentation needed to create a scalable and efficient development workflow.
-
-### Focus Areas
-- Product strategy
-- Agile methodologies
-- Requirement analysis
-- MVP planning
-- Team coordination
-- Development process optimization
+**Estado:** En desarrollo.
 
 ---
 
 ## MammaSoul
 
-Custom e-commerce platform created to replace a limited no-code solution and provide a more scalable and personalized digital experience.
+Plataforma e-commerce desarrollada para una marca orientada a la sustentabilidad.
 
-The project evolved from a simple online store into a broader sustainability-focused brand platform, combining e-commerce functionality with content and community-oriented features.
+### Mi participación
 
-Currently undergoing a restructuring process to expand into a full website experience including blog, branding and online store integration.
+* Desarrollo Full Stack.
+* Evolución funcional de la plataforma.
+* Definición de soluciones técnicas.
+* Implementación de funcionalidades de comercio electrónico.
+* Acompañamiento al cliente en la evolución del producto.
 
-### My Role
-- Full stack development
-- Technical consulting and product evolution
-- E-commerce architecture planning
-- Payment integration implementation
-- Collaboration with the client on brand and platform direction
-
-### Tech Stack
-- Next.js
-- Node.js
-- TypeScript
-- Ualá Payment Integration
-
-### Key Contributions
-Worked closely with the client to redefine the platform vision, helping transition the project from a basic online store into a sustainability-oriented digital brand experience.
+**Tecnologías:** Next.js, Node.js, TypeScript y PostgreSQL.
 
 ---
 
 ## TC Summit
 
-Event landing page developed as a digital showcase for an upcoming technology-focused event.
+Sitio web desarrollado para un evento tecnológico.
 
-The platform was designed to communicate the vision and identity of the event rather than focusing purely on conversion metrics.
+### Mi participación
 
-Currently live and publicly accessible.
+* Desarrollo Frontend y Backend.
+* Comunicación con el cliente.
+* Implementación de interfaz responsive.
+* Despliegue y mantenimiento de la plataforma.
 
-### My Role
-- Frontend and backend development
-- Client communication and technical consulting
-- Architecture migration and deployment
-- UI implementation and project delivery
-
-### Tech Stack
-- React
-- Node.js
-- Next.js
-
-### Key Contributions
-Initially built using a separate React and Node.js architecture, the project was later migrated to Next.js in order to simplify server-side handling and improve maintainability and deployment workflows.
+**Tecnologías:** Next.js, React y Node.js.
 
 ---
 
-## 🧠 Areas of Interest
+## 🎯 Áreas de interés
 
-- Product Development
-- Frontend Architecture
-- Backend Systems
-- Realtime Applications
-- SaaS Business Models
-- Performance Optimization
-- Modern Web UX
-
----
-
-## 📫 Contact
-
-- 📧 Email: fariasvalentino25@gmail.com
-- 🌎 Location: Resistencia, Chaco, Argentina
-
----
-
-> Building products with real impact through clean architecture and modern web technologies.
-
----
-
-# 🇪🇸 Español
-
-# Hola, soy Valentino Farías 👋
-
-Desarrollador Full Stack enfocado en la creación de aplicaciones web modernas, plataformas SaaS y productos digitales escalables.
-
-Disfruto trabajar en todo el ciclo de vida de un producto: desde arquitectura y desarrollo backend hasta experiencias frontend y toma de decisiones técnicas.
-
----
-
-## 🚀 Sobre Mí
-
-- 💻 Desarrollador Full Stack especializado en tecnologías web modernas
-- 🧠 Mentalidad orientada a producto y soluciones reales de negocio
-- ⚙️ Experiencia desarrollando plataformas SaaS, e-commerce y MVPs
-- 🤝 Experiencia trabajando directamente con clientes y stakeholders
-- 📚 Estudiante de Ingeniería en Sistemas de Información en UTN FRRe
+* Desarrollo Full Stack
+* Backend Development
+* Arquitectura de Software
+* Plataformas SaaS
+* APIs e Integraciones
+* Desarrollo de Productos Digitales
+* Optimización de Procesos
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Email: fariasvalentino25@gmail.com
-- 🌎 Ubicación: Resistencia, Chaco, Argentina
+📧 Email: [fariasvalentino25@gmail.com](mailto:fariasvalentino25@gmail.com)
+
+🌎 Resistencia, Chaco, Argentina
+
+💼 LinkedIn: linkedin.com/in/valentino-farias
 
 ---
 
-> Construyendo productos con impacto real mediante arquitectura limpia y tecnologías web modernas.
+> Construyendo soluciones digitales que combinan tecnología, negocio y experiencia de usuario.
